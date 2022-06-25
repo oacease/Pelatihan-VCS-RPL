@@ -2,12 +2,13 @@ Rencana Pelatihan RPL 2022
 - rencana pelatihan 1
   - Javascript
   - PHP
-  - Golang
+  - Python
 - rencana pelatihan 2
   - Javascript
     ^ React
     ^ Angular
     ^ Express
   - PHP
-    ^ Codeigniter
+    ^ Laravel
 - mau jadi yutuber kek windah basudara
+
